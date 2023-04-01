@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently taking Udacity's Data Analyst Nanodegree course.
 - 🔭 I'm currently working on the design of Streamlit apps related to my Udacity's Nanodegree projects
 - 👯 I’m looking to collaborate on Excel, SQL and Python projects related to data science or machine learning.
-- 📫 Connect with me via my [LinkedIn](https://www.linkedin.com/in/benjamin-kenetha-57855a1b2/) and [Twitter](https://twitter.com/Benjamin_moukan)!
+- 📫 Connect with me via my [Twitter](https://twitter.com/Benjamin_moukan)!
