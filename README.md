@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 - 👋 Hi, I’m Benjamin Kenetha (@Benjaminmoukan). 
 - I am an IT Engineer living in Cameroon
 - :soccer: I am also a Jehovah's Witness and a big Real Madrid fan (actually my blood is white)
-- 👀 I’m a Junior Data Analyst, and have been on this journey since October 2022.
-- 🌱 I’m currently taking Udacity's Data Analyst Nanodegree course.
+- 👀 I’m a Python Data Analyst, and have been on this journey since October 2022.
 - 🔭 I'm currently working on the design of Streamlit apps related to my Udacity's Nanodegree projects
 - 👯 I’m looking to collaborate on Excel, SQL and Python projects related to data science or machine learning.
 - 📫 Connect with me via my [Twitter](https://twitter.com/Benjamin_moukan)!
